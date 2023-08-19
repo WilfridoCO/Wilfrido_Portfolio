@@ -1,7 +1,7 @@
 # Wilfrido_Portfolio
 Data Science and ML projects portfolio
 
-[Project #1: Trees and Random Forests for regression and classification.](https://github.com/WilfridoCO/Master_ML_Activity1)
+# [Project #1: Trees and Random Forests for regression and classification.](https://github.com/WilfridoCO/Master_ML_Activity1)
 Project overview.
 - An interesting project on housing prices data got from Kaggle. 
 - Exploratory Data Analysis: Numerical and Categorical variables analysis.
